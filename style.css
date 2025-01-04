@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background-image:url(https://fs02.vseosvita.ua/020013q3-c6fd-150x0.jpg?t=5be46c9e004e9d080574eb882c217bb6);
+    margin: 0;
+}
+article{
+     float: left;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double blue;
+    margin: 40px 0px 40px 80px;
+    background-color: aliceblue;
+}
+img{
+    width:200px;
+    height:150px;
+}
+.info{
+    display:flex;
+    flex-wrap:wrap;
+}
+h1{
+    color:white;
+    text-align:center;
+    background-color:aqua;
+    margin:10px;
+    padding:10px;
+}
+h2{
+    color:blue;
+}
+footer{
+    background-color:aqua;
+
+}
+.sss{
+    display:flex;
+    justify-content:center;
+    padding:15px;
+}
+.sss img{
+    margin:10px;
+    padding:10px;
+}
